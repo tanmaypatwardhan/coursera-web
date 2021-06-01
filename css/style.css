@@ -1,0 +1,28 @@
+header menu {
+    list-style: none;
+}
+
+
+header li:nth-child(3) {
+    font-size: 20px;
+}
+
+a:link , a:visited {
+    text-decoration: none;
+    background-color: black;
+    border: 10px silver;
+    color: silver;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-bottom: 2px;
+}
+
+section div:nth-child(odd){
+    background-color: grey;
+}
+
+a:active , a:hover {
+    background-color: red;
+}

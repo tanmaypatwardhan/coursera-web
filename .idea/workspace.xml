@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d48e48c-e6f3-4166-8ee3-f86f48fb7503" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/characterentity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/displayingimages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headingelements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pseudoclassstructures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/characterentity.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/characterentity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contentmodel.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contentmodel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/displayingimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/displayingimages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/headingelements.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/headingelements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingdom.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/html/kingdom.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lists.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -34,7 +40,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +60,8 @@
       <workItem from="1622331301711" duration="4550000" />
       <workItem from="1622350381295" duration="85000" />
       <workItem from="1622351095540" duration="37000" />
-      <workItem from="1622393632650" duration="8638000" />
+      <workItem from="1622393632650" duration="9023000" />
+      <workItem from="1622498305250" duration="8165000" />
     </task>
     <servers />
   </component>

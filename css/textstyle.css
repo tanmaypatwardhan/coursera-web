@@ -1,0 +1,12 @@
+.style {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AE8625;
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: capitalize;
+
+}
+
+body {
+    font-size: 200%;
+}

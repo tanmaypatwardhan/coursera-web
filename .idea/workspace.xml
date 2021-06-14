@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d48e48c-e6f3-4166-8ee3-f86f48fb7503" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/background.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boxmodel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/elementfloating.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/elementfloating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/thumb-1920-985979.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/elementfloating.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/elementfloating.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +62,7 @@
       <workItem from="1622939890923" duration="5671000" />
       <workItem from="1623041132003" duration="1845000" />
       <workItem from="1623047917614" duration="599000" />
-      <workItem from="1623632863262" duration="4281000" />
+      <workItem from="1623632863262" duration="4627000" />
     </task>
     <servers />
   </component>

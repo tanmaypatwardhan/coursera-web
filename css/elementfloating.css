@@ -1,14 +1,14 @@
 div {
     background-color: lightblue;
+    position: relative;
 }
 
 p {
     width: 50px;
     height: 50px;
     border: 1px solid black;
-    margin-right: 35px;
-    margin-left: 25px;
-    margin-bottom: 15px;
+    margin-top: 0px;
+
 
 }
 #p1 {
@@ -24,6 +24,9 @@ p {
 }
 #p3 {
     background-color: #5F9EA0;
+    position: absolute;
+    top: 0;
+    left: 0;
 
 }
 #p4 {
